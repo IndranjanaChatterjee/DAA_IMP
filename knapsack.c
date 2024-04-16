@@ -1,6 +1,5 @@
 # include<stdio.h>
- 
-void knapsack(int n, float weight[], float profit[], float capacity) {
+ void knapsack(int n, float weight[], float profit[], float capacity) {
    float x[20], tp = 0;
    int i, j, u;
    u = capacity;
