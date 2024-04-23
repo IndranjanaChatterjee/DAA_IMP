@@ -3,6 +3,7 @@
 int graph[10][10], visited[10],total,arr[30];
 static int k=0,count=0;
 void DFS(int);
+
 main()
 {
 	int i,j;
